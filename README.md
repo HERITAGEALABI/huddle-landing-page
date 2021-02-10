@@ -1,6 +1,6 @@
 # Hosted Link
 
-![Here]( https://heritagealabi.github.io/huddle-landing-page/)
+ https://heritagealabi.github.io/huddle-landing-page/
 
 # Frontend Mentor - Huddle landing page with single introductory section
 
